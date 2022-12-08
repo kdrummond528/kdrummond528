@@ -35,7 +35,7 @@ I am a ⚜️ <b>UCF Knight</b> ⚔️ through-and-through, and have also earned
 <a href="mailto:k.drummond528@gmail.com">
     <img src="https://img.icons8.com/color/48/null/gmail--v1.png" width="40" height="40"/>
 </a>
-
+<br>
 <a href="https://www.linkedin.com/in/karinadrummond/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
