@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-developer-web-development-flaticons-lineal-color-flat-icons-5.png"/>
-
 <h1>Hi, I'm Karina 👋🏽</h1>
 
 I am a coding bootcamp student 👩🏽‍💻 currently enrolled in the [Full-Stack Web Development](https://github.com/ucf-coding-boot-camp) program at the [University of Central Florida](https://bootcamp.ce.ucf.edu/coding/). 
