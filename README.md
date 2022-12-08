@@ -4,7 +4,6 @@
 
 I am a coding bootcamp student 👩🏽‍💻 currently enrolled in the [Full-Stack Web Development](https://github.com/ucf-coding-boot-camp) program at the [University of Central Florida](https://bootcamp.ce.ucf.edu/coding/). 
 
-<br>
 I am a ⚜️ <b>UCF Knight</b> ⚔️ through-and-through, and have also earned the following degrees from UCF:
 
 [ <b>Bachelor of Science in Psychology in 2020</b> ] 
