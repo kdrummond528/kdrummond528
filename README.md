@@ -9,5 +9,5 @@ I am a ⚜️ <b>UCF Knight</b> ⚔️ through-and-through, and have also earned
 ### <b>How to reach me:</b>
 - [Email](mailto:k.drummond528@gmail.com) 📬
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/karinadrummond)! 
-- Check out my [Portfolio](https://kdrummond528.github.io/Personal-Portfolio/).
+- Check out my [Portfolio](https://kdrummond528.github.io/React_Portfolio/).
 
