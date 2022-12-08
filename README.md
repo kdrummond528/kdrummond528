@@ -11,7 +11,7 @@ I am a ⚜️ <b>UCF Knight</b> ⚔️ through-and-through, and have also earned
 
 [ <b>Master of Arts in Educational Leadership in 2022</b> ]
 
-<br>
+  
 <h2>Languages and Tools :</h2>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
