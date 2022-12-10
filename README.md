@@ -44,7 +44,7 @@ I am a ⚜️ <b>UCF Knight</b> ⚔️ through-and-through, and have also earned
 
 Check out my portfolio!
 
-<a href="https://kdrummond528.github.io/React-Portfolio/">
+<a href="https://kdrummond528.github.io/React_Portfolio/">
     <img src="./portfolio.png" alt="portfolio" title="Portfolio"></img>
 </a>
 
