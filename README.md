@@ -9,7 +9,8 @@ I am a ⚜️ <b>UCF Knight</b> ⚔️ through-and-through, and have also earned
 [ <b>Bachelor of Science in Psychology in 2020</b> ] 
 
 [ <b>Master of Arts in Educational Leadership in 2022</b> ]
-
+<br>
+ 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
  <a href="https://api.badgr.io/public/assertions/OVVgJwY2QMeB-Clcpsea-A?identity__email=k.drummond528%40gmail.com">
   <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/OVVgJwY2QMeB-Clcpsea-A/image"></a>
