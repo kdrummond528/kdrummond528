@@ -13,16 +13,16 @@ I am a ⚜️ <b>UCF Knight</b> ⚔️ through-and-through, and have also earned
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
  <a href="https://api.badgr.io/public/assertions/OVVgJwY2QMeB-Clcpsea-A?identity__email=k.drummond528%40gmail.com">
   <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/OVVgJwY2QMeB-Clcpsea-A/image"></a>
- <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">
+ <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; letter-spacing: normal; text-align: left; color: #05012c;">
   UCF Coding Boot Camp (Full-Stack Web Development)[Full-Time]</p>
- <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;">
-  <strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">
+ <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; letter-spacing: normal; text-align: left; color: #555555;">
+  <strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; letter-spacing: normal; text-align: left; color: #000;">
   Awarded: 
   </strong>
   Dec 14, 2022
  </p>
- <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;">
-  <strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: 
+ <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; letter-spacing: normal; text-align: left; color: #555555;">
+  <strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; letter-spacing: normal; text-align: left; color: #000;">Awarded To: 
   </strong>
   <span style="display: block;"> Karina Drummond</span>
  </p>
